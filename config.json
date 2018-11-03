@@ -1,0 +1,71 @@
+{
+  "title": "JUNEYOUNG",
+  "baseURL": "https://juneyoung-kang.github.io/",
+
+  "languageCode": "ko",
+  "hasCJKLanguage": true,
+
+  "enableEmoji": true,
+  "enableGitInfo": true,
+
+  "theme": "hugo-theme-cactus-plus",
+  "googleAnalytics": "",
+
+  "params": {
+    "author": "JUNEYOUNG KANG",
+    "description": "매일을 기록하는 블로그",
+    "bio": "꿈꾸는 개발자, 강준영입니다.",
+
+    "twitter": "juneyoungdev",
+    "facebook": "juneyoungdev",
+
+    "enableRSS": true,
+    "enableToc": false,
+
+    "enableDisqus": true,
+    "disqusShortname": "",
+
+    "enableSummary": false,
+    "useDescriptionReplaceSummary": false,
+
+    "enableGoogleAnalytics": true,
+    "enableBaiduAnalytics": false,
+    "baiduAnalytics": "",
+
+    "enableTwitterCard": true,
+    "twitterCardImage": "",
+
+    "customCSS": ["styles/theme.css"],
+    "customJS": [],
+
+    "home": "",
+    "about": "",
+    "archive": "",
+    "subscribe": "",
+
+    "olderPosts": "",
+    "newerPosts": "",
+    "copyright": "&copy; 2018 JUNEYOUNG KANG",
+
+    "showLatestPosts": false,
+    "readMore": "",
+
+    "enableShare": false,
+    "tweet": "",
+    "share": "",
+
+    "title404": "",
+    "subtitle404": "",
+
+    "iconFont": "font-awesome",
+    "socialIconStyle": "",
+
+    "avatarLink": "/"
+  },
+
+  "social": {
+    "github-alt": "https://github.com/Juneyoung-Kang",
+    "twitter": "https://twitter.com/juneyoungdev",
+    "facebook": "https://facebook.com/juneyoungdev"
+  }
+}
