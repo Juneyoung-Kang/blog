@@ -9,7 +9,7 @@
   "enableGitInfo": true,
 
   "theme": "hugo-theme-cactus-plus",
-  "googleAnalytics": "",
+  "googleAnalytics": "UA-123560176-4",
 
   "params": {
     "author": "JUNEYOUNG KANG",
@@ -23,7 +23,7 @@
     "enableToc": false,
 
     "enableDisqus": true,
-    "disqusShortname": "",
+    "disqusShortname": "juneyoungdev",
 
     "enableSummary": false,
     "useDescriptionReplaceSummary": false,
